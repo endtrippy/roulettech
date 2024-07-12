@@ -1,3 +1,7 @@
+# Empires Top 100 Movies
+
+![Demo](roulettech-takehome.gif)
+
 # React Frontend
 
 This project is a simple React frontend application that fetches and displays a list of movies from a Django backend API.
